@@ -2,9 +2,9 @@
 
 ## Description
 
-This project generates a readme.md document from your terminal
+This project generates a readme.md document from your terminal.
 
-# Table of Contents
+## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
@@ -14,11 +14,11 @@ This project generates a readme.md document from your terminal
 
 ## Installation
 
-Please do the following to run the application: Clone repository, run node.js, install inquirer, in terminal input node index.js to run prompts.
+Please do the following to run the application: Clone repository, run node.js, install inquirer, in terminal input node index.js to run prompts
 
 ## Usage
 
-In order to use this app: Free to use.
+In order to use this app: Free to use!
 ## License
 
 This project is licensed under the Apache_2.0 license.

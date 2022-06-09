@@ -83,7 +83,7 @@ function init() {
                 inquirer.prompt([
                 {
                     name: 'images', 
-                    message: 'please provide urls for images',
+                    message: 'please provide the url for your screenshot',
                     type: 'input'
                 }
                 ]).then((res)=>{
