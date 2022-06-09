@@ -1,10 +1,10 @@
-# ReadMe Generator![Apache_2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+# ReadMe Generator ![Apache_2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
 ## Description
 
 This project generates a readme.md document from your terminal
 
-#Table of Contents
+# Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)

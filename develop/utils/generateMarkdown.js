@@ -37,13 +37,13 @@ return `![Screenshot of project](${image})`
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}${renderLicenseBadge(data.license)}
+  return `# ${data.title} ${renderLicenseBadge(data.license)}
 
 ## Description
 
 ${data.description}
 
-#Table of Contents
+# Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 ${renderLicenseLink(data.license)}
