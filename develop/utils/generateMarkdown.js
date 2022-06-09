@@ -31,15 +31,8 @@ return `## License
 This project is licensed under the ${license} license.`
 }
 
-function screenShots(array){
-// var arr = JSON.parse(array);
-// console.log(array)
-
-// for (let i = 0; i < arr.length; i++) {
-//  return `![${arr[i]}](https://img.shields.io/badge/License-${arr[i]}-blue.svg)`
-  
-// }
-return `![${array}](${array})`
+function screenShots(image){
+return `![Screenshot of project](/images/${image})`
 }
 
 // TODO: Create a function to generate markdown for README
@@ -76,7 +69,7 @@ The following is needed to run the test: ${data.tests}
 ## Questions
 
 If you have any questions or issues with the application, please reach out to ${data.name} with the information provided below:
-![GitHub](https://github.com${data.githubUser})
+![GitHub](https://github.com/${data.githubUser})
 ${data.email}
 
 ${screenShots(data.images)}
