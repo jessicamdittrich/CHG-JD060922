@@ -2,7 +2,7 @@
 
 ## Description
 
-This project generates a readme.md document from your terminal.
+This project generates a readme.md document from your terminal
 
 #Table of Contents
 * [Installation](#installation)
@@ -32,7 +32,7 @@ The following is needed to run the test: npm run test
 ## Questions
 
 If you have any questions or issues with the application, please reach out to Jessica with the information provided below:
-![GitHub](https://github.com/jessicamdittrich)
+[Link to GitHub](https://github.com/jessicamdittrich)
 jessicamariedittrich@gmail.com
 
 ![Screenshot of project](screenshot.png)
